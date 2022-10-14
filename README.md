@@ -1,3 +1,5 @@
+## FRIDA NOW SUPPORT ARM ARCH
+
 ## FRIDA ANDROID ARM
 *its [FRIDA](https://github.com/frida/frida) for android with arm architecture*
 
